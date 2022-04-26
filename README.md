@@ -8,8 +8,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CJH0120&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CJH0120&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
+<!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CJH0120&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
+ -->
