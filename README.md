@@ -1,4 +1,4 @@
-<!-- # 💫About Me :
+ # 💫About Me :
 프론트엔드 주니어 개발자 최종현 입니다 :D
 
 # 💻Tech Stack
@@ -27,7 +27,7 @@
 <!-- ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CJH0120&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
--->
+
 
 
  
